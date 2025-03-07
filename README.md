@@ -22,12 +22,12 @@ Clone the repository:
 
 bash
 Copy
-git clone git@github.com:HPOGFD/teamDepo.git
+git clone git@github.com:Alioune-Ndoye/employee-tracker.git
 Navigate to the project folder:
 
 bash
 Copy
-cd teamdepo
+cd employee-tracker
 Install dependencies:
 
 bash
